@@ -1,0 +1,2 @@
+# ODUG
+The Oregon Delphi User Group is a collection of professional software developers using primarily the Delphi programming environment to create and distribute software via their respective businesses. There are meetings almost every month where we share a meal together, and either show what we have done recently or talk about new technologies and how to best use them. This repository holds the files that comprise the website, built with the static site-builder, Hugo, and a custom theme made to look like a Pascal program.

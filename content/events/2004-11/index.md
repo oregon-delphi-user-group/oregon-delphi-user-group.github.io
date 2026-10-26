@@ -16,7 +16,7 @@ DBISAM's libraries can be compiled right in to your application's .EXE.  It come
 Come see a demonstration of DBISAM in a real-world application, get to know its feature set better, and possibly be the lucky winner of one of tonight's door prizes!
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2004-11_DBISAM4/2004-11_DBISAM4.ppt)
+- [PowerPoint Slides](/events/2004-11/2004-11_DBISAM4.ppt)
 
 ## PRESENTER ##
 

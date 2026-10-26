@@ -27,7 +27,7 @@ Here is a preview of some of the topics to be covered:
 We will move fast, but there will be references to several CodeRage sessions made by well-known speakers over the last few years.  These sessions have been downloaded and will be available to copy to your memory stick (AKA jump drive) after the meeting.
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2009-05_DelphiMagic/DelphiMagic.pptx)
+- [PowerPoint Slides](/events/2009-05/DelphiMagic.pptx)
 
 ## PRESENTER ##
 

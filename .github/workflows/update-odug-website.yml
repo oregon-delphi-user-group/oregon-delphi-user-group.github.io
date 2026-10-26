@@ -1,9 +1,5 @@
 name: Update ODUG Website
-on: 
-  push:
-    branches: [$default-branch]
-  # allow this workflow to run manually from the Actions tab
-  workflow_dispatch: 
+on: [push]
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions: 

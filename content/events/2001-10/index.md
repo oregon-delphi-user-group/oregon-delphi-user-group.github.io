@@ -20,8 +20,8 @@ Many of the techniques presented draw from the wisdom and expertise of Ray Lisch
 
 ***Download:***
 
-- [PowerPoint Slides](https://presentations.odug.org/2001-10_AppDevFrameworks/2001_CreatingApplicationDevFramework.ppt)
-- [Five Delphi Projects](https://presentations.odug.org/2001-10_AppDevFrameworks/ODUG_2001-10.zip)
+- [PowerPoint Slides](/events/2001-10/2001_CreatingApplicationDevFramework.ppt)
+- [Five Delphi Projects](/events/2001-10/2001-10_AppDevFrameworks/ODUG_2001-10.zip)
 
 ## PRESENTER ##
 

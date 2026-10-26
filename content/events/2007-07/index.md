@@ -22,7 +22,7 @@ The presentation will introduce Live Templates, how to view and change the templ
 If you bring a USB drive, you can take home all of the templates used during the presentation and be up to speed immediately!
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2007-07_LiveTemplates/LiveTemplatesDelphi.ppt)
+- [PowerPoint Slides](/events/2007-07/LiveTemplatesInDelphi.ppt)
 
 
 ## PRESENTER ##

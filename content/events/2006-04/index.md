@@ -15,7 +15,7 @@ But the bulk of the evening will cover InnoSetup.  With as much power as any bui
 Try it out ahead of time by downloading InnoSetup from [www.jrsoftware.org](http://www.jrsoftware.org/isinfo.php) and bring your questions!
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2006-04_InnoSetup/BuildScriptsAndInnoSetup.ppt)
+- [PowerPoint Slides](/events/2006-04/BuildScriptsAndInnoSetup.ppt)
 
 ## PRESENTER ##
 

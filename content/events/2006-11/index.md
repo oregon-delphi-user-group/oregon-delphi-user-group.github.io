@@ -16,8 +16,8 @@ If you have used BDS 2006 or downloaded Turbo Delphi, please come and share with
 
 ***Download:***
 
-- [PowerPoint Slides](https://presentations.odug.org/2006-11_14ReasonsBDS/2006-11.ppt)
-- [Feature Matrix (PDF)](https://presentations.odug.org/2006-11_14ReasonsBDS/bds2006_feature_matrix.pdf)
+- [PowerPoint Slides](/events/2006-11/2006-11.ppt)
+- [Feature Matrix (PDF)](/events/2006-11/bds2006_feature_matrix.pdf)
 
 ## PRESENTER ##
 

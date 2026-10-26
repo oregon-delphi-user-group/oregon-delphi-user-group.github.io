@@ -21,16 +21,7 @@ defaults:
 jobs:
   rebuild-website:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.168.0
     steps:
-      - name: Install Hugo
-        run:
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
-        
       - name: Refresh website files from repository
         id: checkout
         env:
@@ -49,22 +40,16 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-        
       - name: Build website with Hugo
         id: build
         env:
           TZ: 'America/Los_Angeles'
-          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: production
-        run: |
-          hugo \
-            --minify --buildFuture
-            --baseURL "${{ steps.pages.outputs.base_url }}/" 
-            
+        uses: jakejarvis/hugo-build-action@master
+        with:
+          args: --minify --buildFuture  
+          
       - name: Upload static files as an artifact
-        id: deployment
+        id: updload-pages
         env:
           TZ: 'America/Los_Angeles'
         uses: actions/upload-pages-artifact@v4

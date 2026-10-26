@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Refresh website files from repository
+        id: checkout
         env:
           TZ: 'America/Los_Angeles'
         uses: actions/checkout@v4
@@ -18,19 +19,17 @@ jobs:
           path: themes/pascalinia
           
       - name: Build website with Hugo
+        id: build
         env:
           TZ: 'America/Los_Angeles'
         uses: jakejarvis/hugo-build-action@master
         with:
           args: --minify --buildFuture  
             
-      - name: Push to the Web
+      - name: Upload static files as an artifact
+        id: deployment
         env:
           TZ: 'America/Los_Angeles'
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: actions/upload-pages-artifact@v3
         with:
-          local-dir: public/
-          state-name: ../.ftp-deploy-sync-state.json
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
+          path: public/

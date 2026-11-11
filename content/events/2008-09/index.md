@@ -2,8 +2,11 @@
 title: "Web Services"
 tags:
 - 2008
-- Web
+- WebServices
+- Code
 - Slides
+- ISAPI
+- SOAP
 date: "2008-09-01T18:00:00-08:00"
 ---
 
@@ -14,8 +17,10 @@ There will be a brief introduction to web services, what they are, and who might
 Sound like too much for two hours? With Delphi, web services are a snap! And the steps are surprisingly similar from Delphi 6 to Delphi 2007. But there are some tips you'll want to know....
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2008-09_WebServices/WebServicesWithDelphiSep2008.ppt)
+- [PowerPoint Slides](/events/2008-09/WebServicesWithDelphiSep2008.ppt)
+- Sample Code: [HelloWorld](/events/2008-09/HelloWorld.zip), [Calc](/events/2008-09/Calc.zip), [DBExample](/events/2008-09/DBExample)
+- Downloadable Web page: [Shiv Kumar's Tutorial](/events/2008-09/ShivKumar'sTutorials-BuildingYourFirstWebServiceInDelphi.mht)
 
 ## PRESENTER ##
 
-**David Cornelius** has been developing software since the mid-80's. He is the coordinator of the Oregon Delphi User Group and works full time as a programmer in Beaverton at [Retail Dimensions](http://retaildimensions.com). On the side, he runs [Cornelius Concepts](http://CorneliusConcepts.com), building Windows applications and hosting web sites.
+**David Cornelius** has been developing software since the mid-80's. He is the coordinator of the Oregon Delphi User Group and works full time as a programmer in Beaverton at [Retail Dimensions](http://retaildimensions.com). On the side, he runs [Cornelius Concepts](https://CorneliusConcepts.com), building Windows applications and hosting web sites.

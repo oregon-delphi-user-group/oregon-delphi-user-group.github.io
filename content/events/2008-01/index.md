@@ -14,7 +14,7 @@ Studying these two topics together could branch in various directions, depending
 I invite you to join us and bring your experiences of incorporating libraries and testing methodologies into your programming projects.
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2008-01_UnitTests/UnitTestingDelphi.ppt)
+- [PowerPoint Slides](/events/2008-01/UnitTestingDelphi.ppt)
 
 ## PRESENTER ##
 

@@ -11,7 +11,7 @@ We have decided we want to meet again!  I don't know how regular this will be, b
 The emphasis this month will be using **Firebird** with examples and member experiences shared.
 
 ***Download:***
-- [PowerPoint Slides](https://presentations.odug.org/2011-02_Firebird/Firebird.ppt)
+- [PowerPoint Slides](/events/2011-02/Firebird.ppt)
 
 ## PRESENTER ##
 

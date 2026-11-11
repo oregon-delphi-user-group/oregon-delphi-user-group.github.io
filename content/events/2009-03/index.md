@@ -4,7 +4,6 @@ tags:
 - 2009
 - Delphi Release
 - Anders Ohlsson
-- Slides
 date: "2009-03-01T18:00:00-08:00"
 ---
 
@@ -16,8 +15,8 @@ There will be discounts on Delphi 2009, C++Builder 2009, or RAD Studio 2009. And
 
 ***Download:***
 
-- [RAD Studio 2009 Feature Matrix](https://presentations.odug.org/2009-03_Delphi2009/Delphi2009FeatureMatrix.pdf)
-- [Reasons to Migrate from Delphi 7 to Delphi 2009](https://presentations.odug.org/2009-03_Delphi2009/Reasons_to_Migrate_from_Delphi_7_to_Delphi_2009.pdf)
+- [RAD Studio 2009 Feature Matrix](/events/2009-03/Delphi2009FeatureMatrix.pdf)
+- [Reasons to Migrate from Delphi 7 to Delphi 2009](/events/2009-03/Reasons_to_migrate_from_Delphi_7_to_Delphi_2009_White_Paper_Final.pdf)
 
 Anders (aohlsson@embarcadero.com) is also looking for groups or companies that would like to meet privately, before the evening presentation. He is interested in meeting and speaking with development groups, discussing their project needs, and answering any questions about the company. Follow up with Anders directly if you are interested in one of these.
 

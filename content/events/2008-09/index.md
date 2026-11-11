@@ -18,7 +18,7 @@ Sound like too much for two hours? With Delphi, web services are a snap! And the
 
 ***Download:***
 - [PowerPoint Slides](/events/2008-09/WebServicesWithDelphiSep2008.ppt)
-- Sample Code: [HelloWorld](/events/2008-09/HelloWorld.zip), [Calc](/events/2008-09/Calc.zip), [DBExample](/events/2008-09/DBExample)
+- Sample Code: [HelloWorld](/events/2008-09/HelloWorld.zip), [Calc](/events/2008-09/Calc.zip), [DBExample](/events/2008-09/DBExample.zip)
 - Downloadable Web page: [Shiv Kumar's Tutorial](/events/2008-09/ShivKumar'sTutorials-BuildingYourFirstWebServiceInDelphi.mht)
 
 ## PRESENTER ##

@@ -14,10 +14,10 @@ Suggestions from the audience will be solicited throughout the meeting to make t
 
 ***Download:***
 
-- [PowerPoint Slide](https://presentations.odug.org/2011-11_TouchAndGesture/TouchAndGestures.pptx)
-- [Analysis of Gesture Design (PDF)](https://presentations.odug.org/2011-11_TouchAndGesture/gesturestudy-chi2011.pdf)
-- [Touch Gesture Reference Cards (PDF)](https://presentations.odug.org/2011-11_TouchAndGesture/TouchGestureCards.pdf)
-- [Touch Gesture Reference Guide (PDF)](https://presentations.odug.org/2011-11_TouchAndGesture/TouchGestureGuide.pdf)
+- [PowerPoint Slide](/events/2011-11/TouchAndGestures.pptx)
+- [Analysis of Gesture Design (PDF)](/events/2011-11/gesturestudy-chi2011.pdf)
+- [Touch Gesture Reference Cards (PDF)](/events/2011-11/TouchGestureCards.pdf)
+- [Touch Gesture Reference Guide (PDF)](/events/2011-11/TouchGestureGuide.pdf)
 
 ## PRESENTER ##
 

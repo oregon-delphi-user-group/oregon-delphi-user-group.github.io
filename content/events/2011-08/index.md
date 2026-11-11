@@ -3,7 +3,7 @@ title: "Powerful Debugging with CodeSite"
 tags:
 - 2011
 - Slides
-date: "2011-07-01T18:00:00-08:00"
+date: "2011-08-01T18:00:00-08:00"
 ---
 
 Debugging your applications is an old topic. But there are always new tricks to be learned.  One product that can go a long way in trouble-shooting is CodeSite by [Raize Software](http://www.raize.com).  
@@ -22,7 +22,7 @@ Some of the features that will be discussed include:
 - Using templates to quickly add debugging to your code
 
 ***Download:***
-- [PowerPoint Slide](https://presentations.odug.org/2011-08_CodeSite/CodeSite_2011-08.pptx)
+- [PowerPoint Slide](/events/2011-08/CodeSite_2011-08.pptx)
 
 ## PRESENTER ##
 

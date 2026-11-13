@@ -3,7 +3,8 @@ title: "Delphi 2010"
 tags:
 - 2010
 - Slides
-date: "2010-03-01T18:00:00-08:00"
+- Code
+date: "2010-02-01T18:00:00-08:00"
 image: D2010_radtour.png
 ---
 
@@ -34,6 +35,8 @@ RAD Studio 2010 helps you go further and get there faster with more than 120 new
 
 Come to this exciting event and learn more about the latest product offerings from Embarcadero Technologies
 
+***Download:***
+- [2010 Code Demos](/events/2010-02/D2010_demos.zip)
 
 ## PRESENTER ##
 

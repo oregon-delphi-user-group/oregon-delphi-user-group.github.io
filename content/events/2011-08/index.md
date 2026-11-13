@@ -3,6 +3,7 @@ title: "Powerful Debugging with CodeSite"
 tags:
 - 2011
 - Slides
+- Code
 date: "2011-08-01T18:00:00-08:00"
 ---
 
@@ -23,6 +24,7 @@ Some of the features that will be discussed include:
 
 ***Download:***
 - [PowerPoint Slide](/events/2011-08/CodeSite_2011-08.pptx)
+- [Sample Projects](/events/2011-08/CodeSite.zip)
 
 ## PRESENTER ##
 

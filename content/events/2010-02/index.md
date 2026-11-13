@@ -36,6 +36,7 @@ RAD Studio 2010 helps you go further and get there faster with more than 120 new
 Come to this exciting event and learn more about the latest product offerings from Embarcadero Technologies
 
 ***Download:***
+- [Slides](/events/2010-02/090731_Delphi_2010_Launch_Seminar.pptx)
 - [2010 Code Demos](/events/2010-02/D2010_demos.zip)
 
 ## PRESENTER ##

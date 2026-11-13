@@ -2,6 +2,7 @@
 title: "Mid-Summer Fun"
 tags:
 - 2009
+- Code
 date: "2009-07-01T18:00:00-08:00"
 ---
 
@@ -17,6 +18,10 @@ I'll also dig out some of Marco Cantu's Fun With Delphi presentations from CodeG
 The upstairs room we're hoping to meet in has a $100 reservation fee, so it can't be used as our regular meeting place.  However, it's not currently reserved and since Monday nights are usually slow, they might let us up there. There is parking across the street next to the "Parks and Recreation" building.
 
 Part of this meeting will be a continued discussion from the email list on the location of future meetings.
+
+***Download***
+
+- [Fun Programs](/events/2009-07/SummerFun.zip)
 
 ## PRESENTER ##
 

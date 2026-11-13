@@ -3,6 +3,7 @@ title: "Delphi Magic!"
 tags:
 - 2009
 - Slides
+- Code
 date: "2009-05-01T18:00:00-08:00"
 ---
 
@@ -28,6 +29,7 @@ We will move fast, but there will be references to several CodeRage sessions mad
 
 ***Download:***
 - [PowerPoint Slides](/events/2009-05/DelphiMagic.pptx)
+- [Sample Project](/events/2009-05/DelphiMagic.zip)
 
 ## PRESENTER ##
 

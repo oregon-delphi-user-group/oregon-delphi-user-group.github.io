@@ -3,6 +3,7 @@ title: 'Source Control'
 date: 2024-04-20T20:54:16-08:00
 tags: 
 - 2024
+- Source Control
 ---
 
 ~~We have no official presentation this month. Instead~~ we'll just discuss whatever topics that arise, like the recent release of Delphi 12.1, or why Lazarus produces much faster Linux code than Delphi, or where you were during the Eclipse on April 8?
@@ -10,7 +11,7 @@ tags:
 _**UPDATE:** The Main Topic turned out to be **Source Control**. A few notes were thrown together at the last minute and a good discussion ensued. 
 
 ***Download:*** 
-- [PowerPoint Slides (with links!)](https://presentations.odug.org/2024-04_SourceControl.pptx) 
+- [PowerPoint Slides (with links!)](/events/2024-04/2024-04_SourceControl.pptx) 
 
 ## DATE/TIME ##
 

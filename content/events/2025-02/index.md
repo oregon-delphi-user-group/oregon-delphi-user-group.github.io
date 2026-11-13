@@ -14,7 +14,7 @@ In [October of 2023](https://odug.org/events/2023-10/), the concepts of building
 This session will show some live customer data so it will not be recorded. The plan for next month is to use a test database with fictional data that we can show to a broader audience.
 
 ***Download:*** 
-- [Phone App Source](https://presentations.odug.org/ABS_Customer_Phone_App.zip) - Three files make up the React Native source for the phone app Homer showed.
+- [Phone App Source](/events/2025-02/ABS_Customer_Phone_App.zip) - Three files make up the React Native source for the phone app Homer showed.
 
 ## PRESENTERS ##
 

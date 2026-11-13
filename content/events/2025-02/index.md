@@ -5,6 +5,7 @@ tags:
 - 2025
 - RAD Server
 - Homer Jones
+- Code
 ---
 
 In [October of 2023](https://odug.org/events/2023-10/), the concepts of building RAD Server modules were introduced with the promise of a more advanced topic "soon". Well, next month, we will finally dive into the deep end but this month a refresh of that introductory topic will be shared along with a quick database demo that produces a JSON list of customers. Additionally, a quick show-and-tell of an Android app written with the popular JavaScript framework, [React Native](https://reactnative.dev/) will demonstrate how the JSON data produced is used.

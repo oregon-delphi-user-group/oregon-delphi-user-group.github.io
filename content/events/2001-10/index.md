@@ -5,6 +5,7 @@ tags:
 - 2001
 - Rob Schuff
 - Slides
+- Code
 ---
 
 Delphi provides several useful facilities for streamlining application development.  In this presentation, we'll explore several techniques used in the development of a multi-tier medical research application.  Topics covered include:
